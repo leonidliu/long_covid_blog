@@ -1,5 +1,5 @@
 ---
-title: "long_covid_blog"
+title: "A blog chronicling my journey with Long Covid, with a dash of data"
 listing:
   contents: posts
   sort: "date desc"
@@ -10,5 +10,3 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
-
-

@@ -2,14 +2,11 @@ project:
   type: website
 
 website:
-  title: "long_covid_blog"
+  title: "Leo's Long Covid Journey"
   navbar:
     right:
       - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+
 format:
   html:
     theme: cosmo
