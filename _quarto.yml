@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Leo's Long Covid Journey"
+  title: "Leo's Long Covid Blog"
   navbar:
     right:
       - about.qmd
