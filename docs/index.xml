@@ -10,7 +10,81 @@
 <atom:link href="https://leonidliu.github.io/long_covid_blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog chronicling Leo's journey with Long Covid, with a dash of data</description>
 <generator>quarto-1.1.189</generator>
-<lastBuildDate>Thu, 03 Nov 2022 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 15 Nov 2022 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>POTS Update: ‘I should lay down’</title>
+  <dc:creator>Leo Liu</dc:creator>
+  <link>https://leonidliu.github.io/long_covid_blog/posts/pots-1/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>It wasn’t until about three months into my Long Covid that I began to have trouble with my heart rate.</p>
+<p>I was having a good month by the standards of my new medical condition, and I took the opportunity to try to squeeze in a haircut. In an effort to be careful and reduce exertion — I didn’t want another episode of <strong>post-exertional malaise (PEM)</strong>, a subject for a future blog post — I took an electric scooter to and from the barbershop, fifteen minutes away.</p>
+<p>I thought standing on the electric scooter wouldn’t be a strain. After all, at this point in my recovery, I was doing a daily 15-20 minute walk, albeit with a break every five minutes. And I’d taken shorter scooter trips a few times without incident.</p>
+<p>But partway through my ride, I noticed on my FitBit that my heart rate had shot up to 130 beats per minute. A full 60 higher than my resting heart rate of 70. As far as I could tell, just from standing and balancing on the electric scooter.</p>
+<p><em>Uh oh, that’s not normal.</em></p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://leonidliu.github.io/long_covid_blog/posts/pots-1/scooter.jpg" class="img-fluid figure-img" alt="A set of black electric scooters with pink design, strewn on the ground" width="464"></p>
+<p></p><figcaption class="figure-caption">A picture of electric scooters on the ground by <a href="https://www.flickr.com/photos/quintanomedia/">quintanomedia</a>, licensed under <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></figcaption><p></p>
+</figure>
+</div>
+<p>At the barbershop, I noticed malaise setting in as my haircut proceeded. The feeling of being sick and mildly poisoned crept down my head and neck. With the barber making smalltalk, my ability to hold conversation quickly diminished.</p>
+<section id="fast-forward-nearly-two-months-later" class="level2">
+<h2 class="anchored" data-anchor-id="fast-forward-nearly-two-months-later">Fast forward, nearly two months later</h2>
+<p>Seemingly starting with the scooter incident, elevated heart rate has now become a way of life. Rarely does five minutes of being upright pass without me checking the heart rate reading on my wrist at least once.</p>
+<p>For much of the last two months, I have been horizontal on my couch or bed, the only apparent position in which my heart rate cannot make me sicker. After the scooter incident left me feeling worse for about 5 weeks, I am still too scared to resume daily walks — not wanting to inadvertantly push too far again.</p>
+<p>I’ve also since been diagnosed by a cardiologist with <strong>POTS</strong>, or at least something like it. POTS stands for <strong>Postural Orthostatic Tachychardia Syndrome</strong>, and it’s a common co-morbidity among those of us who haven’t recovered from Covid. POTS is a nervous system dysfunction that makes the body unable to comfortably tolerate being upright. As I had experienced, it typically shows up through elevated heart rate and a complex constellation of potential symptoms. The root cause is unknown and probably heterogeneous, though it commonly starts after viral infections. Like with many other post-viral conditions, there is no medically-approved cure at this point.</p>
+</section>
+<section id="data" class="level2">
+<h2 class="anchored" data-anchor-id="data">Data</h2>
+<p>To meet the diagnostic criteria for POTS, you need to have a heart rate that jumps 30 beats per minute upon standing. You also need to rule out that the increase in heart rate is coincides with changes in your blood pressure, such as a drop in blood pressure that could cause elevated heart rate.</p>
+<p>I demonstrated to my cardiologist that I met the criteria using a test called the (unfortunately named) <strong>Poor Man’s Tilt Test</strong>. Below are four days of heart rate and blood pressure readings I took using a standard blood pressure cuff, first thing each morning. It wasn’t unusual for my heart rate to increase by over 40 upon standing. Such an increase is considered large — even an increase of 20 is considered <strong>orthostatic intolerance</strong>. Meanwhile, my blood pressure readings seemed generally stable. So, POTS.</p>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://leonidliu.github.io/long_covid_blog/posts/pots-1/index_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid figure-img" width="552"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>Still, I’d say that I am presenting on the milder-to-moderate side of POTS, at least for now. Far too many people with POTS are fully unable to leave their beds for months at a time, and I’ve heard reports of people whose heart rate can jump to 170 just after standing up.</p>
+</section>
+<section id="what-im-trying" class="level2">
+<h2 class="anchored" data-anchor-id="what-im-trying">What I’m trying</h2>
+<ul>
+<li><p>At this point, I’m on 2.5mg of ivabradine, twice a day. It’s a drug that slows your heart rate, originally designed for those with heart failure. It can also help people with POTS, often, I’m told, without as many side effects as beta blockers.</p></li>
+<li><p>I drink 2-3 liters of water a day to boost blood volume. Once a day, I mix a liter of water with a packet of Triorial, which uses a WHO-approved oral rehydration formula, including over 2,600 mg of salt per packet to help my body retain hydration.</p></li>
+<li><p>Also, I am at the very beginning of trying a particular physical rehabilitation program — a modified version of the CHOP protocol — designed by a Long Covid patient with POTS for those recovering from similar conditions. The program starts with five minutes of horizontal exercise every other day, with a break after every minute of exercise during which I wait for my heart rate to fall back down. If it doesn’t, then I stop for the day.</p></li>
+<li><p>In addition, I am trying to add more ‘exercises’ that I have heard can be helpful in regulating the nervous system: adding cold water exposure to the end of my showers, breathing exercises (e.g., <a href="https://www.stasis.life/">STASIS breathing</a>), and meditation.</p></li>
+<li><p>Lastly, I got the Pfizer bivalent booster a few weeks ago. While everyone’s reaction is a little different, particularly for those with Long Covid, some people do report general improvement after getting a vaccine, which is why I consider it a potential POTS intervention.</p></li>
+</ul>
+</section>
+<section id="how-its-going" class="level2">
+<h2 class="anchored" data-anchor-id="how-its-going">How it’s going</h2>
+<p>I think it’s still too early to say. Nearly two months after the scooter incident, my body has only barely started to stabilize again. I am so grateful to be experiencing a little more stability right now, but I’ve had enough Long Covid setbacks to know that another significant setback might happen again. If I were to experience another flare-up or “crash,” as some of us call them, I might find myself mostly horizontal for weeks again. Nevertheless, right now I am hopeful that, with my intentional POTS-informed physical rehabilitation program and limited exertion otherwise, I will be able to improve without avoid triggering another flare-up or crash.</p>
+</section>
+<section id="up-next" class="level2">
+<h2 class="anchored" data-anchor-id="up-next">Up next</h2>
+<p>Next time, I plan to write about my Long Covid journey as it relates to the health of my gut microbiome. I’ll include results from the Ombre commercial gut microbiome test that I took!</p>
+</section>
+<section id="bonus-my-pots-song" class="level2">
+<h2 class="anchored" data-anchor-id="bonus-my-pots-song">Bonus: My POTS Song</h2>
+<p>As friends who’ve stayed with me in these past few months know, <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjc4tCh-qz7AhXwkIkEHcM7CqMQFnoECC8QAQ&amp;url=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F6RpEhQK2y0rTZQ5y12xB5x&amp;usg=AOvVaw3Iu2aJ5g4Okvlsvdhgvq7K">Naje’s “Go Lay Down”</a> has been my POTS song. I sometimes belt it when I can’t stand up. It brings me great joy, and I share it in case it might bring a smile to someone else struggling with POTS, too.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>POTS</category>
+  <guid>https://leonidliu.github.io/long_covid_blog/posts/pots-1/index.html</guid>
+  <pubDate>Tue, 15 Nov 2022 05:00:00 GMT</pubDate>
+  <media:content url="https://www.flickr.com/photos/quintanomedia/" medium="image"/>
+</item>
 <item>
   <title>Welcome!</title>
   <dc:creator>Leo Liu</dc:creator>
