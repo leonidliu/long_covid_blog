@@ -3,6 +3,7 @@ title: "POTS Update: 'I should lay down'"
 author: "Leo Liu"
 date: "2022-11-15"
 categories: [news, POTS]
+image: scooter.jpg
 ---
 
 It wasn't until about three months into my Long Covid that I began to have trouble with my heart rate.
