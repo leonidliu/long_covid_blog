@@ -18,7 +18,7 @@ But partway through the trip, I noticed on my FitBit that my heart rate had shot
 
 ![A picture of electric scooters on the ground by [quintanomedia](https://www.flickr.com/photos/quintanomedia/), licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)](scooter.jpg){fig-alt="A set of black electric scooters with pink design, strewn on the ground" fig-align="left" width="464"}
 
-At the barbershop, I noticed malaise setting in as my haircut proceeded. The feeling of being sick and mildly poisoned crept down my head and neck. With the barber making smalltalk, my ability to hold conversation quickly diminished.
+At the barbershop, I noticed malaise setting in as my haircut proceeded. The feeling of being sick and mildly poisoned crept down my head and neck. With the barber making small talk, my ability to hold conversation quickly diminished.
 
 ## Fast forward, nearly two months later
 
@@ -32,7 +32,7 @@ I've also since been diagnosed by a cardiologist with **POTS**, or at least some
 
 To meet the diagnostic criteria for POTS, you need to have a heart rate that jumps 30 beats per minute upon standing. You also need to rule out that the increase in heart rate coincides with changes in your blood pressure, such as a drop in blood pressure that could cause elevated heart rate.
 
-I demonstrated to my cardiologist that I met the criteria using a test called the (unfortunately named) **Poor Man's Tilt Test**. Below are data from four days of heart rate and blood pressure readings I took using a standard blood pressure cuff, first thing in the morning. Looking at the results, it wasn't unusual for my heart rate to increase by over 40 upon standing. Such an increase is considered large, since even an increase of 20 is considered **orthostatic intolerance**. Meanwhile, my blood pressure readings seemed generally stable. So, POTS.
+I demonstrated to my cardiologist that I met the criteria using a test called the (unfortunately named) **Poor Man's Tilt Test**. Below are data from four days of heart rate and blood pressure readings I took using a standard blood pressure cuff, first thing in the morning. Looking at the results, it wasn't unusual for my heart rate to increase by over 40 upon standing. Such an increase is large, since even an increase of 20 is considered **orthostatic intolerance**. Meanwhile, my blood pressure readings were generally stable. So, POTS.
 
 ```{r}
 #| message: false
