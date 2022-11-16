@@ -5,11 +5,11 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Leo's Long Covid Blog</title>
+<title>Leo&#39;s Long Covid Blog</title>
 <link>https://leonidliu.github.io/long_covid_blog/index.html</link>
 <atom:link href="https://leonidliu.github.io/long_covid_blog/index.xml" rel="self" type="application/rss+xml"/>
-<description>A blog chronicling Leo's journey with Long Covid, with a dash of data</description>
-<generator>quarto-1.1.189</generator>
+<description>A blog chronicling Leo&#39;s journey with Long Covid, with a dash of data</description>
+<generator>quarto-1.2.269</generator>
 <lastBuildDate>Tue, 15 Nov 2022 05:00:00 GMT</lastBuildDate>
 <item>
   <title>POTS Update: ‘The scooter incident’</title>
