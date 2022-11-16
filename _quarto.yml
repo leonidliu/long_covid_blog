@@ -11,6 +11,7 @@ website:
       - about.qmd
       - icon: rss
         href: index.xml
+  margin-header: subscribe.html
 
 format:
   html:
