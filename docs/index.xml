@@ -10,7 +10,88 @@
 <atom:link href="https://leonidliu.github.io/long_covid_blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog chronicling Leo&#39;s journey with Long Covid, with a dash of data</description>
 <generator>quarto-1.2.269</generator>
-<lastBuildDate>Tue, 15 Nov 2022 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Nov 2022 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Gut Update: ‘The Dysbiosis Hypothesis’</title>
+  <dc:creator>Leo Liu</dc:creator>
+  <link>https://leonidliu.github.io/long_covid_blog/posts/gut-1/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>When I got infected with Covid this May, I told myself, <em>I probably won’t get Long Covid.</em></p>
+<p>At that point in the pandemic, Long Covid <em>was</em> what I was afraid of. After all, as a generally-healthy, triple-vaccinated person, I didn’t have to be too worried about severe acute illness or death. It was the <a href="https://www.cdc.gov/nchs/pressroom/nchs_press_releases/2022/20220622.htm">one in five</a> chance of not recovering — and the possibility of becoming <a href="https://www.hhs.gov/civil-rights/for-providers/civil-rights-covid19/guidance-long-covid-disability/index.html">disabled</a> — that scared me.</p>
+<p>But I reassured myself that at least I was lucky to not have known risk factors: I wasn’t <a href="https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(22)00354-6/fulltext">unvaccinated</a>, <a href="https://jamanetwork.com/journals/jama/fullarticle/2797443?guestAccessKey=07377a3e-8fa8-4f8e-b336-381e6899b698&amp;utm_source=For_The_Media&amp;utm_medium=referral&amp;utm_campaign=ftm_links&amp;utm_content=tfl&amp;utm_term=101022">female</a>, or <a href="https://www.cell.com/cell/fulltext/S0092-8674(22)00072-1">diabetic</a>. In my teenage years, I had avoided contracting a virus like the one that causes mono, which Covid <a href="https://www.cell.com/cell/fulltext/S0092-8674(22)00072-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422000721%3Fshowall%3Dtrue">can reactivate</a> even years later.</p>
+<p>Not only that, I probably got a reduced viral load due to wearing my <strong>KN95</strong> mask, and I managed to get access to a full course of the antiviral medication <strong>Paxlovid</strong>, which current research says slightly <a href="https://www.medrxiv.org/content/10.1101/2022.11.03.22281783v1">reduces</a> the chance of Long Covid.</p>
+<p>But months later, here I am, sick <em>and</em> disabled with the very condition I tried so hard to avoid.</p>
+<p>Herein lies a puzzle: was it pure bad luck? Or was there <em>something</em> about my otherwise-good health that could’ve contributed to my developing a debilitating medical condition? This is an important question — not as a matter of self-blame, but because I know firsthand that the Covid pandemic is not over, no matter what <a href="https://www.npr.org/2022/09/19/1123767437/joe-biden-covid-19-pandemic-over">President Biden has said</a>. As long as I can get reinfected, my Long Covid could get <a href="https://www.longcovidkids.org/post/a-world-first-effect-of-covid-reinfection-on-people-living-with-long-covid">worse</a>, or I could recover and get it again.</p>
+<section id="enter-the-dysbiosis-hypothesis" class="level2">
+<h2 class="anchored" data-anchor-id="enter-the-dysbiosis-hypothesis">Enter, the Dysbiosis Hypothesis</h2>
+<p>I may never know exactly why I got Long Covid, but I’ve read enough science to have a hypothesis. It has to do with my gut microbiome.</p>
+<p>Today, researchers know that the <strong>gut microbiome</strong> — the collection of trillions of microbes and bacteria living inside of the human gut — plays a major role in our overall health and well-being. An estimated 70-80% of the human immune system is located in the gut. And beyond the immune system, it also influences <a href="https://sonnenburglab.stanford.edu/press.html">countless</a> other aspects of our health, such as our mood, nervous system, and weight.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://leonidliu.github.io/long_covid_blog/posts/gut-1/gut-microbiome.jpeg" class="img-fluid figure-img" alt="An illustration of the beneficial bacteria in the gut" width="409"></p>
+<p></p><figcaption class="figure-caption">“<a href="https://www.flickr.com/photos/132318516@N08/29872812646">Beneficial Gut Bacteria</a>” by National Institutes of Health (NIH) is licensed under <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=openverse">CC BY-NC 2.0</a>.</figcaption><p></p>
+</figure>
+</div>
+<p>Studies have shown that patients with Long Covid are <a href="https://www.nih.gov/news-events/nih-research-matters/covid-19-disrupts-gut-microbiome">much more likely</a> to have <strong>dysbiosis</strong>, a disrupted and out-of-balance gut microbiome, than patients who have recovered from Covid more quickly. For instance, <a href="https://gut.bmj.com/content/71/3/544">one study</a> found that Long Covid patients specifically tend to have less concentration of <em>Bifidobacterium pseudocatenulatum</em> and <em>Faecalibacterium prausnitzii</em>, beneficial bacteria species linked to better immunity.</p>
+<p>In the nine months before my infection, I unfortunately had to take several rounds of antibiotics. Five, in fact: two for tonsillitis, one for strep throat, one for gonorrhea, and one after I was so tired of tonsil problems that I got them removed. With so much antibiotic usage in so short a period of time, it’d be surprising if my gut microbiome <em>wasn’t</em> out of balance. Sadly, I didn’t have too much of a choice. Antibiotics are prescribed so often because they work.</p>
+<p>In short, my dysbiosis hypothesis is this: my gut microbiome hadn’t yet healed from several rounds of antibiotics, and Long Covid resulted from the virus taking advantage of my temporarily vulnerable gut. Taken further, the virus might even have found a way to take up residence in the relatively hospitable environment that is the gut. The virus and viral fragments have been found <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9057012/">within the gut tissue</a> of infected people, which is one reason why viral persistence has become a prevailing theory of why some people suffer from Long Covid.</p>
+</section>
+<section id="data" class="level2">
+<h2 class="anchored" data-anchor-id="data">Data</h2>
+<p>Suspecting dysbiosis, I ordered a commercial microbiome test from the company <a href="https://www.ombrelab.com/">Ombre</a> to better understand the health of my gut microbiome.</p>
+<p>The test cost $100 and was surprisingly easy to self-administer. Describing the process would be more graphic than I care to do online, but let’s just say it involved a swab, a test tube, and used toilet paper. I sent in my sample and got my results back within two weeks.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="https://leonidliu.github.io/long_covid_blog/posts/gut-1/gut-test-results-1.png" class="img-fluid figure-img" alt="An image depicting levels of various beneficial bacteria" width="586"></p>
+<p></p><figcaption class="figure-caption">Results from my microbiome test; analysis by <a href="https://www.biomesight.com/">Biomesight</a>. Sep 2022.</figcaption><p></p>
+</figure>
+</div>
+<p>Shown above are estimated concentrations of my <em>good</em> bacterial genera from my sample. Of seven measured genera, the free-of-cost analysis by Biomesight categorized me as “low” on six. Two in particular — <em>Akkermansia</em> (which plays a role in strengthening the gut lining to prevent leakage) and <em>Bifidobacterium</em> (which plays a role in modulating the body’s immune responses) — appeared nonexistent or nearly so, at estimated concentrations of 0.000% and 0.002% respectively.</p>
+<p><em>Yikes!</em></p>
+<p>How about the two beneficial strains in the <a href="https://gut.bmj.com/content/71/3/544">aforementioned</a> study on patients with Long Covid? Well, <em>Faecalibacterium prausnitzii</em> was detected at the low concentration of 2.879% and <em>Bifidobacterium pseudocatenulatum</em> was not detected at all.</p>
+<p><em>Double yikes!</em></p>
+<p>Not shown are the concentrations of my <em>bad</em> bacterial genera, mostly because they also appeared low. That was good news, at least.</p>
+<p>Now, I don’t know how accurate these commercial tests are, or what research may back the presented interval ranges, but between my antibiotic history and these results, it feels safe to say that I am currently experiencing some form of dysbiosis. With low levels of important beneficial bacteria, I’d guess that my gut is (still) vulnerable to opportunistic infections. Rebuilding these populations seems to me a no-brainer in my journey to restored health — and perhaps even toward full recovery.</p>
+</section>
+<section id="what-im-trying" class="level2">
+<h2 class="anchored" data-anchor-id="what-im-trying">What I’m trying</h2>
+<p>Many (but not all) of the interventions below are suggested by the pioneering research of Stanford microbiologists Erica and Justin Sonnenburg. They detail some of them in their published book, <em>The Good Gut</em>, and another is suggested by a <a href="https://pubmed.ncbi.nlm.nih.gov/34256014/">recent study</a> they collaborated on showing durable benefits to the microbiome as a result of increased fermented food intake.</p>
+<ul>
+<li><p><strong>Eating several servings of fermented food every day.</strong> For me, this includes a daily glass of homemade kefir, a fermented milk drink similar to yogurt, as well more kimchi, sauerkraut, and miso in general.</p></li>
+<li><p><strong>Eating a wider range of fruits and vegetables, and eating less red meat.</strong> Especially foods that are vibrant and colorful.</p></li>
+<li><p><strong>Supplementing with probiotics and prebiotics.</strong> For example, Garden of Life has several formulations of <strong>probiotics</strong> (live good bacteria) containing high <em>Bifido</em> counts, as well as <strong>prebiotics</strong> (which help good bacterial populations thrive).</p></li>
+<li><p><strong>Spending time in nature and with dogs, when I can.</strong> Both are good ways to expose myself to healthy bacteria, and good for my mental health, too. Since I live in DC, this sometimes means dogs and Rock Creek Park!</p></li>
+<li><p><strong>Drinking more bone broth.</strong> Not mentioned by the Sonnenbergs, but is nonetheless supposedly helpful for repairing the lining of the gut.</p></li>
+</ul>
+<p>Outside of my early Paxlovid course, I haven’t tried any antivirals that might combat viral persistence, should viral persistence explain my condition, though perhaps I will in the future.</p>
+<p>In the future, I may also see if an integrative medicine doctor can offer me more targeted guidance.</p>
+</section>
+<section id="how-its-going" class="level2">
+<h2 class="anchored" data-anchor-id="how-its-going">How it’s going</h2>
+<p>I’ve made these changes to my diet for roughly three months, now. And so far, so good!</p>
+<p>My appreciation for fermented foods has definitely grown. I’m craving the tangy flavor of fermented food more than ever before. I especially think my life has been improved by the addition of homemade kefir, which I tell my friends is “the champagne of milk” for it’s fun, luscious fizziness.</p>
+<p>As for the cheapest way to assess my gut health from week to week, you’ll just have to trust me when I say that my stool frequency and consistency have improved, too. Google “Bristol Stool Chart,” if you’re interested in more on that. It’s a real medical tool.</p>
+<p>Beyond that, I plan to retake the Ombre test in another month or two for comparison.</p>
+</section>
+<section id="disclaimer" class="level2">
+<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
+<p>I’m not a medical professional. Before introducing fermented food or probiotics into your diet, you might consider consulting with an experienced doctor. For example, fermented food is high in histamine, which some people with Long Covid cannot tolerate. And caution with probiotics could be warranted for those who are immunocompromised or taking immunosuppresants.</p>
+<p>Also, I have no affiliation with Ombre or Biomesight.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>gut</category>
+  <guid>https://leonidliu.github.io/long_covid_blog/posts/gut-1/index.html</guid>
+  <pubDate>Tue, 29 Nov 2022 05:00:00 GMT</pubDate>
+  <media:content url="https://leonidliu.github.io/long_covid_blog/posts/gut-1/gut-microbiome.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>POTS Update: ‘The scooter incident’</title>
   <dc:creator>Leo Liu</dc:creator>
